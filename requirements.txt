@@ -1,0 +1,11 @@
+langchain
+openai
+tiktoken
+pypdf
+hugchat
+sentence_transformers
+llama-index
+langchain-openai
+unstructured[pdf]
+faiss-gpu
+langchainhub
